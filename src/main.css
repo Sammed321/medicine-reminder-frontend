@@ -60,7 +60,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(bg.jpg)
+  background: url("/bg.jpg")
     no-repeat center center/cover;}
 
 .login-card {
@@ -179,7 +179,7 @@ button {
 }
 .doctor-page {
   min-height: 86vh; /* navbar height */
-  background: url(dbg.jpg)
+  background: url("/dbg.jpg")
     no-repeat center center/cover;
   padding-top: -10px;
 }

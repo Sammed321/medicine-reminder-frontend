@@ -39,7 +39,8 @@ export default function DoctorDashboard() {
         <div>
           {selected
             ? <PatientDetails patient={selected} />
-            : "Select a patient"}
+            : "Select a patient"
+          }
         </div>
       </div>
     </div>
